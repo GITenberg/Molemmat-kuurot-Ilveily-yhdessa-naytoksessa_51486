@@ -1,11 +1,14 @@
 _repo: Molemmat-kuurot-Ilveily-yhdessa-naytoksessa_51486
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Les deux sourds. Finnish
 contributor:
   translator:
     agent_name: Silander, Johanna
     gutenberg_agent_id: '46431'
     url: http://www.gutenberg.org/2009/agents/46431
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moinaux, Jules
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '6979'
     url: http://www.gutenberg.org/2009/agents/6979
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51486#Molemmat-kuurot-Ilveily-yhdessa-naytoksessa
 gutenberg_issued: '2016-03-17'
 gutenberg_type: Text
 identifiers:
